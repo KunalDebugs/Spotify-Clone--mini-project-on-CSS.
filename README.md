@@ -3,3 +3,4 @@ if you wanna run it .....
 eitheer you can download the files on your system and then tap on index.html 
 or
 i am deploying it on vercel so you can tap on thee link below
+spotify-web-player-music-for-everyo-omega.vercel.app
